@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "572299540051",
+    "project_id": "smart-pds-tamilnadu-2026",
+    "storage_bucket": "smart-pds-tamilnadu-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572299540051:android:89ffdc7e5fb3db6cd878a6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0ZR8up93Ql-0QL7dKBciKm8az4j9uoz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
